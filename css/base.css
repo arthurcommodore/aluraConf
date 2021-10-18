@@ -1,0 +1,16 @@
+
+.container {
+    width: 86%;
+    margin: 0 auto;
+}
+
+
+.button {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 40px;
+    background-color: #48A3A6;
+    border-radius: 16px;
+}
